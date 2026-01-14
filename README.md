@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/beko-1enkosi">Beko</a>! 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/beko-1enkosi">Bekolenkosi</a>! 👋</h1>
   <p>
-    <strong>Full Stack Developer | Open Source Enthusiast | Tech Explorer</strong>
+    <strong>Aspiring Software Engineer | Open Source Enthusiast | Tech Explorer</strong>
   </p>
 
   <a href="https://git.io/typing-svg">
@@ -12,11 +12,11 @@
 <hr/>
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Next.js / Rust / AI]**
-- 👯 I’m looking to collaborate on **Open Source projects**
-- 💬 Ask me about **JavaScript, React, or Cloud Computing**
-- 📫 How to reach me: **[your-email@example.com]**
+- 🔭 I’m currently a studebt at **WeThinkCode_**, doing Software Engineering
+- 🌱 I’m currently learning **Java, Cloud Computing, Web Development, AI etc**
+- 👯 I’m looking to collaborate on **Hackathons, Open Source Projects etc**
+- 💬 Ask me about **Python, HTML, CSS and Javasript**
+- 📫 How to reach me: **t2bnkosi@gmail.com**
 
 ---
 
@@ -49,10 +49,10 @@
 
 ### 🤝 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/thobeka-nkosi-217640293/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
+  <a href="https://x.com/bekolenkosi_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
