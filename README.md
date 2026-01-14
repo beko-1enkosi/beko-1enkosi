@@ -34,16 +34,9 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beko-1enkosi&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beko-1enkosi&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa252eTNtMHY3ODRmbzc4d2V6OGk5NWt5Z3YzbWp4YmI5cm95M2lkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OqMhcq0qqd5Jr4rgAc/giphy.gif" alt="Aang bending all elements" width="500" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beko-1enkosi&theme=radical" alt="streak graph" />
-</div>
+
 
 ---
 
