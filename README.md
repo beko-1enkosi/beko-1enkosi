@@ -34,9 +34,7 @@
 
 ---
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa252eTNtMHY3ODRmbzc4d2V6OGk5NWt5Z3YzbWp4YmI5cm95M2lkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OqMhcq0qqd5Jr4rgAc/giphy.gif" alt="Aang bending all elements" width="500" />
-
-
+![giphy](https://github.com/user-attachments/assets/de8d8610-a805-4339-8a2c-ae73f6d5264c)
 
 ---
 
