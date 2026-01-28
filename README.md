@@ -12,8 +12,8 @@
 <hr/>
 
 ### 🚀 About Me
-- 🔭 I’m currently a studebt at **WeThinkCode_**, doing Software Engineering
-- 🌱 I’m currently learning **Java, Cloud Computing, Web Development, AI etc**
+- 🔭 I’m currently a student at **WeThinkCode_**, doing Software Engineering
+- 🌱 I’m currently learning **Java, Cloud Computing, Web Development, Machine Learning, Next.js, and Flask**
 - 👯 I’m looking to collaborate on **Hackathons, Open Source Projects etc**
 - 💬 Ask me about **Python, HTML, CSS and Javasript**
 - 📫 How to reach me: **t2bnkosi@gmail.com**
@@ -34,7 +34,9 @@
 
 ---
 
-![giphy](https://github.com/user-attachments/assets/de8d8610-a805-4339-8a2c-ae73f6d5264c)
+<div align="center">
+  ![giphy](https://github.com/user-attachments/assets/de8d8610-a805-4339-8a2c-ae73f6d5264c)
+</div>
 
 ---
 
