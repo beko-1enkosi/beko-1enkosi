@@ -34,9 +34,7 @@
 
 ---
 
-<div align="center">
-  ![giphy](https://github.com/user-attachments/assets/de8d8610-a805-4339-8a2c-ae73f6d5264c)
-</div>
+![giphy](https://github.com/user-attachments/assets/de8d8610-a805-4339-8a2c-ae73f6d5264c)
 
 ---
 
