@@ -1,35 +1,53 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/beko-1enkosi">Bekolenkosi</a>! 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/beko-1enkosi">Thobeka (Beko)</a>! 🇿🇦</h1>
   <p>
-    <strong>Aspiring Software Engineer | Open Source Enthusiast | Tech Explorer</strong>
+    <strong>Full-Stack Software Engineering Student | Health-Tech & Fintech Builder | Linux Enthusiast</strong>
   </p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=I+build+scalable+web+apps;I+love+learning+new+tech;Always+coding..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Building+scalable+Next.js+apps;Crafting+Python+%26+Flask+backends;Test-Driven+Development+advocate;Pop!_OS+daily+driver..." alt="Typing SVG" />
   </a>
 </div>
 
 <hr/>
 
 ### 🚀 About Me
-- 🔭 I’m currently a student at **WeThinkCode_**, doing Software Engineering
-- 🌱 I’m currently learning **Java, Cloud Computing, Web Development, Machine Learning, Next.js, and Flask**
-- 👯 I’m looking to collaborate on **Hackathons, Open Source Projects etc**
-- 💬 Ask me about **Python, HTML, CSS and Javasript**
+- 🔭 I’m currently a Software Development student at **WeThinkCode_**, acting as a Git Architect and technical lead for collaborative projects.
+- 💡 **Current Focus:** Building impactful platforms at the intersection of technology, healthcare (Bioinformatics & Clinical Decision Support), and finance.
+- 🌱 **Deep Diving:** Test-Driven Development (TDD), API integration, and AI interpretability tools.
+- 💬 Ask me about **Python, Java, Next.js, Flask, and configuring the perfect Pop!_OS terminal.**
 - 📫 How to reach me: **t2bnkosi@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
-<div align="center">
+
+**Languages & Core**
+<div align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
+
+**Frontend & Frameworks**
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
+
+**Backend & Data**
+<div align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+</div>
+
+**Tools & Environment**
+<div align="left">
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </div>
 
 ---
