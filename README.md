@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/beko-1enkosi">Thobeka (Beko)</a>! 🇿🇦</h1>
+  <h1>Hi there, I'm <a href="https://github.com/beko-1enkosi">Thobeka</a>!</h1>
   <p>
-    <strong>Full-Stack Software Engineering Student | Health-Tech & Fintech Builder | Linux Enthusiast</strong>
+    <strong>Full-Stack Software Engineering Student | Health-Tech & Fintech Builder</strong>
   </p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Building+scalable+Next.js+apps;Crafting+Python+%26+Flask+backends;Test-Driven+Development+advocate;Pop!_OS+daily+driver..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Building+scalable+Next.js+apps;Crafting+Python+%26+Flask+backends;Test-Driven+Development+advocate;Bridging+Biology+%26+Code..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,11 +16,12 @@
 <hr/>
 
 ### 🚀 About Me
-- 🔭 I’m currently a Software Development student at **WeThinkCode_**, acting as a Git Architect and technical lead for collaborative projects.
-- 💡 **Current Focus:** Building impactful platforms at the intersection of technology, healthcare (Bioinformatics & Clinical Decision Support), and finance.
-- 🌱 **Deep Diving:** Test-Driven Development (TDD), API integration, and AI interpretability tools.
-- 💬 Ask me about **Python, Java, Next.js, Flask, and configuring the perfect Pop!_OS terminal.**
-- 📫 How to reach me: **t2bnkosi@gmail.com**
+- 🧬 **BSc Life Sciences** (Biochemistry & Physiology) → 💻 now studying **Software Engineering** at **WeThinkCode_** — bridging biology and code, one commit at a time.
+- 🏗️ Git Architect & technical lead on collaborative student projects, building platforms where healthcare, fintech, and software collide.
+- ⚡ Obsessed with clean architecture, Test-Driven Development, and shipping things that actually work.
+- 🐳 Currently leveling up in **Docker & Kubernetes** — containerizing everything in sight.
+- 💬 Ask me about Python, Java, Next.js, Flask, or how bioinformatics sneaks into my side projects.
+- 📫 Reach me at **t2bnkosi@gmail.com**
 
 ---
 
@@ -47,10 +48,12 @@
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
 </div>
 
-**Tools & Environment**
+**DevOps & Tools**
 <div align="left">
-  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </div>
 
