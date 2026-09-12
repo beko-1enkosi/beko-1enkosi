@@ -10,10 +10,6 @@
 </div>
 
 ---
-<img width="480" height="206" alt="giphy" src="https://github.com/user-attachments/assets/f656d672-20ac-409a-be7b-beb6846cda1f" />
-
-
-<hr/>
 
 ### 🚀 About Me
 - 🧬 **BSc Life Sciences** (Biochemistry & Physiology) → 💻 now studying **Software Engineering** at **WeThinkCode_** — bridging biology and code, one commit at a time.
