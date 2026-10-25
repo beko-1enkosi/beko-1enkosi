@@ -17,7 +17,7 @@
 - ⚡ Obsessed with clean architecture, Test-Driven Development, and shipping things that actually work.
 - 🐳 Currently leveling up in **Docker & Kubernetes** — containerizing everything in sight.
 - 💬 Ask me about Python, Java, Next.js, Flask, or how bioinformatics sneaks into my side projects.
-- 📫 Reach me at **t2bnkosi@gmail.com**
+- 📫 Reach me on LinkedIn **https://www.linkedin.com/in/thobeka-nkosi-217640293**
 
 ---
 
