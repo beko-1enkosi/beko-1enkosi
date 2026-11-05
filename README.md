@@ -1,70 +1,107 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/beko-1enkosi">Thobeka</a>!</h1>
-  <p>
-    <strong>Full-Stack Software Engineering Student | Health-Tech & Fintech Builder</strong>
-  </p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Building+scalable+Next.js+apps;Crafting+Python+%26+Flask+backends;Test-Driven+Development+advocate;Bridging+Biology+%26+Code..." alt="Typing SVG" />
-  </a>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,30:6D28D9,70:A78BFA,100:C4B5FD&height=220&section=header&text=Hey%2C%20I%27m%20Thobeka%21&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Purple waving header with Thobeka's name" />
 
----
 
-### 🚀 About Me
-- 🧬 **BSc Life Sciences** (Biochemistry & Physiology) → 💻 now studying **Software Engineering** at **WeThinkCode_** — bridging biology and code, one commit at a time.
-- 🏗️ Git Architect & technical lead on collaborative student projects, building platforms where healthcare, fintech, and software collide.
-- ⚡ Obsessed with clean architecture, Test-Driven Development, and shipping things that actually work.
-- 🐳 Currently leveling up in **Docker & Kubernetes** — containerizing everything in sight.
-- 💬 Ask me about Python, Java, Next.js, Flask, or how bioinformatics sneaks into my side projects.
-- 📫 Reach me on LinkedIn **https://www.linkedin.com/in/thobeka-nkosi-217640293**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Core**
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</div>
-
-**Frontend & Frameworks**
-<div align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
-
-**Backend & Data**
-<div align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-</div>
-
-**DevOps & Tools**
-<div align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-</div>
-
----
-
-![giphy](https://github.com/user-attachments/assets/de8d8610-a805-4339-8a2c-ae73f6d5264c)
-
----
-
-### 🤝 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/thobeka-nkosi-217640293/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/bekolenkosi_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+
+<h3>Software Engineering • Java &amp; Backend • Data Engineering</h3>
+
+<p>Curious mind. Creative builder. Always up for a challenge. 💜</p>
+
+</div>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=From+ideas+to+working+software;Java+%7C+Sockets+%7C+Concurrency;Building+reliable+backend+systems;Data+pipelines+that+turn+raw+data+into+insights;Always+learning.+Always+building." alt="Animated introduction" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🌙 About Me | ⚡ What I'm Into | 💬 Ask Me About |
+| :---: | :---: | :---: |
+| Software Engineering student at **WeThinkCode_** who enjoys building useful, reliable systems. | **Java backend development**, **data engineering**, testing, clean architecture, and shipping real products. | Java, Python, REST APIs, sockets, multithreading, Airflow, dbt, Docker, and my pinned projects! |
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 💻 Tech I Work With
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,py,ts,js&theme=dark" alt="Java, Python, TypeScript, JavaScript" />
+
+`Java 21` · `Python` · `SQL` · `TypeScript` · `JavaScript`
+
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,tailwind&theme=dark" alt="FastAPI, Flask, React, Next.js, Tailwind CSS" />
+
+`REST APIs` · `Java Sockets` · `JUnit 5` · `Maven` · `Microservices`
+
+### Data Engineering & Databases
+<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" alt="PostgreSQL and SQLite" />
+
+`Apache Airflow` · `dbt` · `pandas` · `DuckDB` · `Parquet` · `ETL/ELT`
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,vscode&theme=dark" alt="Docker, Kubernetes, Git, GitHub Actions, Linux, VS Code" />
+
+`CI/CD` · `Pytest` · `Git` · `Linux`
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🌬️ A Little Aang Break
+
+<img src="https://github.com/user-attachments/assets/de8d8610-a805-4339-8a2c-ae73f6d5264c" width="520" alt="Aang from Avatar: The Last Airbender" />
+
+*When the code finally runs without errors... inner peace restored. 🍃*
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 💜 A Few Things About Me
+
+**Building software that works > software that just looks cool.**
+
+I enjoy untangling backend challenges, designing data workflows, and learning something new every time I build.
+
+**Want to see my work?** Take a look at my six pinned repositories below. 🚀
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/thobeka-nkosi-217640293/">
+  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:t2bnkosi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/beko-1enkosi">
+  <img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br><br>
+
+**Thanks for stopping by! 💜**
+
+*Keep learning. Keep building. Stay curious.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,30:A78BFA,70:6D28D9,100:2E1065&height=120&section=footer" alt="Purple waving footer" />
+
 </div>
