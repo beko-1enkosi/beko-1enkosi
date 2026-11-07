@@ -48,7 +48,7 @@
 `Apache Airflow` · `dbt` · `pandas` · `DuckDB` · `Parquet` · `ETL/ELT`
 
 ### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,vscode&theme=dark" alt="Docker, Kubernetes, Git, GitHub Actions, Linux, VS Code" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,vscode,idea&theme=dark" alt="Docker, Kubernetes, Git, GitHub Actions, Linux, VS Code, IntelliJ IDEA" />
 
 `CI/CD` · `Pytest` · `Git` · `Linux`
 
