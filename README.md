@@ -80,8 +80,6 @@ I enjoy untangling backend challenges, designing data workflows, and learning so
 
 **Want to see my work?** Take a look at my six pinned repositories below. 🚀
 
-**Portfolio inspiration:** Adapted from [Nidhi Prajapati's portfolio template](https://github.com/SomehowLiving/portfolio-template), with design inspiration from [Nik of coolestdesigner.com](https://coolestdesigner.com).
-
 </div>
 
 <br>
