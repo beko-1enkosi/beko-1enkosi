@@ -43,14 +43,16 @@
 `REST APIs` · `Java Sockets` · `JUnit 5` · `Maven` · `Microservices`
 
 ### Data Engineering & Databases
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" alt="PostgreSQL and SQLite" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase&theme=dark" alt="PostgreSQL, SQLite, and Supabase" />
 
-`Apache Airflow` · `dbt` · `pandas` · `DuckDB` · `Parquet` · `ETL/ELT`
+`Apache Airflow` · `dbt` · `pandas` · `DuckDB` · `Parquet` · `ETL/ELT` · `Supabase`
 
 ### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,vscode,idea&theme=dark" alt="Docker, Kubernetes, Git, GitHub Actions, Linux, VS Code, IntelliJ IDEA" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,vscode,idea,aws,vercel&theme=dark" alt="Docker, Kubernetes, Git, GitHub Actions, Linux, VS Code, IntelliJ IDEA, AWS, and Vercel" />
 
-`CI/CD` · `Pytest` · `Git` · `Linux`
+<a href="https://kiro.dev/"><img src="https://img.shields.io/badge/Kiro%20IDE-9046FF?style=flat-square" alt="Kiro IDE" /></a>
+
+`CI/CD` · `Pytest` · `Git` · `Linux` · `Kiro IDE` · `AWS Amplify` · `Vercel`
 
 </div>
 
